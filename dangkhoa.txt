@@ -1,2 +1,5 @@
+<<<<<<< HEAD
 nguyen dang khoa dep trai
 168 hoang dieu
+=======
+>>>>>>> parent of 787a252... dangkhoa.txt da thay doi
