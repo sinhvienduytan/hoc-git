@@ -1,6 +1,10 @@
-<<<<<<< HEAD
 nguyen dang khoa dep trai
+<<<<<<< HEAD
 168 hoang dieu
 01687863073
+11111111
 =======
 >>>>>>> parent of 787a252... dangkhoa.txt da thay doi
+=======
+168 hoang dieu
+>>>>>>> parent of 260cdf2... new
